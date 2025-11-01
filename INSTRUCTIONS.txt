@@ -1,0 +1,6 @@
+1. In deze folder, doe RMB en selecteer "Open in terminal", en run "python .\server.py" en sluit het venster NIET.
+2. In Chrome, ga naar "localhost:8080".
+3. Start DOSBox en typ "SETUP.EXE".
+4. In SETUP, configureer indien nodig en ga dan naar "Save parameters and launch DOOM".
+
+RIP AND TEAR
